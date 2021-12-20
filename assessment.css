@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(70deg, rgb(25, 151, 224), rgb(148, 38, 238));
+    color: #fdffff;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+button {
+    padding: 12px 50px;
+    background-color: #1b5d83;
+    color:#fdffff;
+    border-style: none;
+}
+input {
+    height: 40px;
+}
